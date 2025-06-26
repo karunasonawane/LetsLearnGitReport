@@ -139,6 +139,17 @@ Pass   7	12
 
 Done...
 
+Date:- 26-June-25 (Thursday)
+
+Fail.  	 			    
+Block  	  				      
+NA.    		 			  	 
+Pass   	  			
+-------------------------
+	26    26
+
+Done...
+
 
 try until you succeed...
 trying trying  until you succeed...
