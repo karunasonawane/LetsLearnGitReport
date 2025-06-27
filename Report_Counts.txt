@@ -143,7 +143,7 @@ Date:- 26-June-25 (Thursday)
 
 Fail.  	 9	5			    
 Block 	 7	8 			  				      
-NA.    		 			  	 
+NA.    	 3	1	 			  	 
 Pass   	  			
 -------------------------
 	26    26
