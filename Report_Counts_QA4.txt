@@ -202,7 +202,7 @@ Date:- 03-July-25 (Wednesday)-Structure Only-On New Branch -QA4
 
 Fail. 	8	5 				    
 Block 	7	8				      
-NA.    	 		 		 
+NA.   	3	1 	 		 		 
 Pass   			
 -------------------------
 	26    26
