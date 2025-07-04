@@ -197,6 +197,19 @@ Pass   	8	12
 
 Done...
 
+On New Branch -QA4
+Date:- 03-July-25 (Wednesday)-Structure Only-On New Branch -QA4
+
+Fail. 		 				    
+Block 					      
+NA.    	 		 		 
+Pass   			
+-------------------------
+	26    26
+
+Done...
+
+
 
 
 
