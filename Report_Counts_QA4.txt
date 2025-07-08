@@ -224,7 +224,7 @@ Done...
 On New Branch -QA6
 Date:- 07-July-25 (Monday)-Structure Only-On New Branch -QA6
 
-Fail. 							    
+Fail. 	9	5						    
 Block 						      
 NA.    		 		 		 
 Pass   					
