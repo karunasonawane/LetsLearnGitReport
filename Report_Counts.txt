@@ -251,7 +251,7 @@ Date:- 09-July-25 (Wednesday)-Structure Only-On New Branch -QA8
 Fail. 	8	5								    
 Block 	7	5						      
 NA.     3	1					 		 		 
-Pass    							
+Pass    8	12							
 -------------------------
 	26    26
 
