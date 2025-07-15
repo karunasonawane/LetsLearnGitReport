@@ -273,7 +273,7 @@ Done...
 On New Branch -QA10
 Date:- 14-July-25 (Monday)-Structure Only-On New Branch -QA10
 
-Fail. 											    
+Fail. 	9	5										    
 Block 								      
 NA.     					 		 		 
 Pass    								
