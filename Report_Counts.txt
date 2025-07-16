@@ -286,7 +286,7 @@ Done...
 On New Branch -QA11
 Date:- 15-July-25 (Tuesday)-Structure Only-On New Branch -QA11
 
-Fail. 												    
+Fail. 	9	6											    
 Block 								      
 NA.    						 		 		 
 Pass   									
