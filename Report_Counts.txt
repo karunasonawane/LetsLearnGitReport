@@ -299,7 +299,7 @@ Done...
 On New Branch -QA12
 Date:- 17-July-25 (Thursday)-Structure Only-On New Branch -QA12
 
-Fail. 												    
+Fail. 	9	5											    
 Block 									      
 NA.    							 		 		 
 Pass   										
