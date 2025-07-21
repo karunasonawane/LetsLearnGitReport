@@ -296,6 +296,18 @@ Pass   	7	11
 Done...
 
 
+On New Branch -QA12
+Date:- 17-July-25 (Thursday)-Structure Only-On New Branch -QA12
+
+Fail. 	9	5											    
+Block 	7	8								      
+NA.    	3	1						 		 		 
+Pass   	7	12									
+-------------------------
+	26    26
+
+Done...
+
 
 
 
