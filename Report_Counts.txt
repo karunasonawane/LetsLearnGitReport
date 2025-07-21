@@ -311,7 +311,7 @@ Done...
 On New Branch -QA13 
 Date:- 18-July-25 (Friday)-Structure Only-On New Branch -QA13
 
-Fail. 											    
+Fail. 	9	5										    
 Block 									      
 NA.    							 		 		 
 Pass   										
