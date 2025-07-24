@@ -326,7 +326,7 @@ Date:- 24-July-25 (Thursday)-Structure Only-On New Branch -QA13
 Fail. 	9	5											    
 Block 	7	8									      
 NA.    	3	1							 		 		 
-Pass   											
+Pass   	7	12										
 -------------------------
 	26    26
 
