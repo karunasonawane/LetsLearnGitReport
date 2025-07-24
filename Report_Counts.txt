@@ -323,8 +323,8 @@ Done...
 On New Branch -QA14
 Date:- 24-July-25 (Thursday)-Structure Only-On New Branch -QA13
 
-Fail. 												    
-Block 										      
+Fail. 	9	5											    
+Block 	7	8									      
 NA.    								 		 		 
 Pass   											
 -------------------------
