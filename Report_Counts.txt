@@ -345,6 +345,18 @@ Pass   	8	12
 
 Done...
 
+On New Branch -QA16
+Date:- 28-July-25 (Monday)-Structure Only-On New Branch -QA16
+
+Fail. 													    
+Block 											      
+NA.    									 		 		 
+Pass   											
+-------------------------
+	26    26
+
+Done...
+
 
 
 
