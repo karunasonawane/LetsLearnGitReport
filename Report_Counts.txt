@@ -375,7 +375,7 @@ Date:- 30-July-25 (Wednesday)- Structure Only- On New Branch -QA18
 Fail. 	9	5												    
 Block 	7	8									      
 NA.    	3	1								 		 		 
-Pass   										
+Pass   	7	12									
 -------------------------
 	26    26
 
