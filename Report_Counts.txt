@@ -384,7 +384,7 @@ Done...
 On New Branch -QA20
 Date:- 01-August-25 (Friday)- Structure Only- On New Branch -QA20
 
-Fail. 														    
+Fail. 	8	5													    
 Block 										      
 NA.    										 		 		 
 Pass   											
