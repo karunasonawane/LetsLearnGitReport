@@ -387,7 +387,7 @@ Date:- 01-August-25 (Friday)- Structure Only- On New Branch -QA20
 Fail. 	8	5													    
 Block 	7	8									      
 NA.    	3	1									 		 		 
-Pass   											
+Pass   	8	12										
 -------------------------
 	26    26
 
