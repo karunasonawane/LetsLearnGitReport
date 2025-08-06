@@ -394,6 +394,20 @@ Pass   	8	12
 Done...
 
 
+On New Branch -QA21
+Date:- 05-August-25 (Tuesday)- Structure Only- On New Branch -QA21
+
+Fail. 															    
+Block 										      
+NA.    		1									 		 		 
+Pass   												
+-------------------------
+	26    26
+
+Done...
+
+
+
 
 
 
