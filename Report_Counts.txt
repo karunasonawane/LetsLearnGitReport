@@ -398,7 +398,7 @@ On New Branch -QA21
 Date:- 05-August-25 (Tuesday)- Structure Only- On New Branch -QA21
 
 Fail. 	9	5														    
-Block 										      
+Block 	7	8									      
 NA.    											 		 		 
 Pass   												
 -------------------------
