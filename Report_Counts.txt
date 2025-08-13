@@ -447,7 +447,7 @@ On New Branch -QA25
 Date:- 12-August-25 (Tuesday)- Structure Only- On New Branch -QA25
 
 Fail. 	9	5																    
-Block 											      
+Block 	7	8										      
 NA.     												 		 		 
 Pass   													
 -------------------------
