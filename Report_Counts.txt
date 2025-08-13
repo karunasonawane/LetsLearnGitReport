@@ -446,7 +446,7 @@ Done...
 On New Branch -QA25
 Date:- 12-August-25 (Tuesday)- Structure Only- On New Branch -QA25
 
-Fail. 																	    
+Fail. 	9	5																    
 Block 											      
 NA.     												 		 		 
 Pass   													
