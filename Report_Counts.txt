@@ -458,7 +458,7 @@ Done...
 On New Branch -QA26
 Date:- 25-August-25 (Monday)- Structure Only- On New Branch -QA26
 
-Fail. 																		    
+Fail. 	9	12																	    
 Block 											      
 NA.     													 		 		 
 Pass   														
