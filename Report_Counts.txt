@@ -470,7 +470,7 @@ Done...
 On New Branch -QA27
 Date:- 29-August-25 (Friday)- Structure Only- On New Branch -QA27
 
-Fail. 																	    
+Fail. 	8	5																    
 Block 											      
 NA.     													 		 		 
 Pass   														
