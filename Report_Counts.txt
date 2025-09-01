@@ -467,6 +467,18 @@ Pass   	7	12
 
 Done...
 
+On New Branch -QA27
+Date:- 25-August-25 (Monday)- Structure Only- On New Branch -QA27
+
+Fail. 																	    
+Block 											      
+NA.     													 		 		 
+Pass   														
+-------------------------
+	26    26
+
+Done...
+
 
 
 
