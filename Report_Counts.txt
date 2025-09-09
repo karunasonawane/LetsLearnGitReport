@@ -496,7 +496,7 @@ On New Branch -QA29
 Date:- 08-Sept-25 (Monday)- Structure Only- On New Branch -QA29
 
 Fail. 	9	5																	    
-Block 												      
+Block 	7	8											      
 NA.     														 		 		 
 Pass   															
 -------------------------
