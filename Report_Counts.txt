@@ -508,7 +508,7 @@ On New Branch -QA30
 Date:- 12-Sept-25 (Friday)- Structure Only- On New Branch -QA30
 
 Fail. 	4	3																		    
-Block 													      
+Block 	7	8												      
 NA.     														 		 		 
 Pass   															
 ------------------------
