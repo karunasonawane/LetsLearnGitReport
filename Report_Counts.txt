@@ -507,7 +507,7 @@ Done...
 On New Branch -QA30
 Date:- 12-Sept-25 (Friday)- Structure Only- On New Branch -QA30
 
-Fail. 																			    
+Fail. 	4	3																		    
 Block 													      
 NA.     														 		 		 
 Pass   															
