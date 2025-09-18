@@ -519,7 +519,7 @@ Done...
 On New Branch -QA31
 Date:- 17-Sept-25 (Wednesday)- Structure Only- On New Branch -QA31
 
-Fail. 																		    
+Fail. 	4	3																	    
 Block 												      
 NA.     													 		 		 
 Pass   														
