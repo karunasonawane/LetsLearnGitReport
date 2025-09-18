@@ -520,7 +520,7 @@ On New Branch -QA31
 Date:- 17-Sept-25 (Wednesday)- Structure Only- On New Branch -QA31
 
 Fail. 	4	3																	    
-Block 												      
+Block 	7	8											      
 NA.     													 		 		 
 Pass   														
 ------------------------
