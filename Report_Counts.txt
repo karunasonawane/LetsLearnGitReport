@@ -532,8 +532,8 @@ On New Branch -QA32
 Date:- 18-Sept-25 (Thursday)- Structure Only- On New Branch -QA32
 
 Fail. 	4	3																	    
-Block 													      
-NA.    														 		 		 
+Block 	7	8												      
+NA.    															 		 		 
 Pass   													
 ------------------------
 	26    26
