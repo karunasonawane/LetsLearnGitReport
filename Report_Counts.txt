@@ -543,7 +543,7 @@ Done...
 On New Branch -QA33
 Date:- 06-OCT-25 (Monday)- Structure Only- On New Branch -QA32
 
-Fail. 																	    
+Fail. 	4	3																	    
 Block 												      
 NA.    															 		 		 
 Pass   												
