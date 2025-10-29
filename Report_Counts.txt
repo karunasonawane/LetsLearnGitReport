@@ -555,7 +555,7 @@ Done...
 On New Branch -QA34
 Date:- 28-OCT-25 (Wednesday)- Structure Only- On New Branch -QA34
 
-Fail. 																	    
+Fail. 	4	3																    
 Block 												      
 NA.    															 		 		 
 Pass   											
