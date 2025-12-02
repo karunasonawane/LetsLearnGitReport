@@ -558,7 +558,7 @@ Date:- 02-DEC-25 (Tuesday)- Structure Only- On New Branch -QA35
 Fail. 	8	6																		    
 Block 	7	6										      
 NA.     0	1															 		 		 
-Pass   												
+Pass   	9	11											
 ------------------------
 	26    26
 
