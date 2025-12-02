@@ -555,8 +555,8 @@ Done...
 On New Branch -QA35
 Date:- 02-DEC-25 (Tuesday)- Structure Only- On New Branch -QA35
 
-Fail. 8		6																		    
-Block 										      
+Fail. 	8	6																		    
+Block 	7	6										      
 NA.    															 		 		 
 Pass   												
 ------------------------
